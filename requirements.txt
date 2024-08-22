@@ -1,0 +1,8 @@
+numpy
+pickle
+pandas
+random
+streamlit
+sklearn
+tensorflow
+matplotlib
